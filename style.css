@@ -124,3 +124,22 @@ h2{
     margin-top: 25px;
     display: inline-flex;
 }
+.ruler{
+    width: 800px;
+    height: 80px;
+    background-color: #1a2197;
+    border: #1d805b;
+    display: flex;
+    
+    
+}
+.items{
+order: 5; 
+background-color: #fff;
+text-align: center;
+width: 80px;
+padding-left: 10px;
+justify-content: center;
+
+
+}
